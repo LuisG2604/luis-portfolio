@@ -6,6 +6,9 @@ Even though I’m just completing my formal studies, my journey into the world o
 
 While these were not always full-scale projects, they were **focused experiments and practice sessions** aimed at learning specific disciplines within game and software development. Below are some of the tools and engines I’ve worked with:
 
+PROJECTS:
+- [Events Management Website](Website_ManageEvents/README.md)
+
 ## 🌍 Languages I Speak
 - French – Fluent  
 - English – Fluent  
