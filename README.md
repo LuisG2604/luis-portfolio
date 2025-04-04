@@ -8,6 +8,7 @@ While these were not always full-scale projects, they were **focused experiments
 
 PROJECTS:
 - [Events Management Website](Website_ManageEvents/README.md)
+- [Online Shop Website](Website_OnlineShop/UserManual.md)
 
 ## 🌍 Languages I Speak
 - French – Fluent  
