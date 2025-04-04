@@ -15,7 +15,7 @@ Pour ajouter un nouveau evenement il faut mettre un bon URL pour l'image. Il fau
 
 #Images de demontration du site
 
-<img src="https://imgur.com/TtjEgvL" width="400"/>
-<img src="https://imgur.com/J36KvF7" width="400"/>
-<img src="https://imgur.com/e9RyeQY" width="400"/>
+<img src="https://i.imgur.com/TtjEgvL.png" width="400"/>
+<img src="https://i.imgur.com/J36KvF7.png" width="400"/>
+<img src="https://i.imgur.com/e9RyeQY.png" width="400"/>
 
