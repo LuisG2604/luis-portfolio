@@ -1,3 +1,5 @@
+Site pour gestion d'evenements. Reserve, Modification d'evenements. Donnees sauvegardes dans une BD SQLite avec Prisma.
+
 Avant de demarrer le projet:
 
     npm install
